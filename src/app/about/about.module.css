@@ -1,0 +1,9 @@
+.aboutContent {
+  padding: 10% 20%;
+}
+
+@media screen and (max-width: 500px) {
+  .aboutContent {
+    padding: 10%;
+  }
+}
